@@ -12,3 +12,6 @@ CTRL + ALT + N
 
 # Requerimentos
 Necessário ter o dart instalado
+
+# Fonte
+[youtube - cod3r](https://www.youtube.com/watch?v=dL2NxrNewBQ&ab_channel=Cod3rCursos)
